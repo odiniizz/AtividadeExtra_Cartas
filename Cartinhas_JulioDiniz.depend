@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696597254 source:/home/alunos/Downloads/Cartinhas_JulioDiniz/Carta.cpp
+	"Carta.h"
+
+1696598474 /home/alunos/Downloads/Cartinhas_JulioDiniz/Carta.h
+	<iostream>
+
+1696597464 source:/home/alunos/Downloads/Cartinhas_JulioDiniz/main.cpp
+	"Carta.h"
+
